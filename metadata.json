@@ -1,0 +1,5 @@
+{
+  "name": "NeuraPic",
+  "description": "Upload your photo and travel through time! This app uses AI to generate photorealistic images of you reimagined in different scenes.",
+  "requestFramePermissions": []
+}
